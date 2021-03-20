@@ -1,17 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<div> 
-    <!--578.xml-->
-    <pb ed="#P" n="578"/>
-    <lb ed="#P" n="21"/>ONCIo, quae hic sequitur, AMICE 
-    <lb ed="#P" n="22"/>LECTOR, serius nobis allata est; quam vt 
-    <lb ed="#P" n="23"/>potuerit suo loco interseri. Sed quia nomen 
-    <lb ed="#P" n="24"/>&amp; ingenium Magistri Guillielmi de Sancto 
-    <lb ed="#P" n="25"/>Amore prae se ferebat, &amp; eius ipse saepe me¬ 
-    <lb ed="#P" n="26"/>minit in suis ad Obiecta Responsionibus; nolui tantum in 
-    <lb ed="#P" n="27"/>fidem publicam committere vt eam Typographus non excu¬ 
-    <lb ed="#P" n="28"/>deret. Eam autem habitam esse Parisiis, cumiam Romae de¬ 
-    <lb ed="#P" n="29"/>latus esset, ex eo collige, quod statim post eius initium dicat,  
-    <lb ed="#P" n="30"/>quosdam sibi detrahere apud Magnates &amp; in Curia Domini 
-    <lb ed="#P" n="31"/>Papae, quiad Periculis tantum praedicabat. Vale Mi LEc¬ 
-    <lb ed="#P" n="32"/>ToR &amp; fruere.  
-</div>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Collectiones catholicae et canonicae scripturae ad defensionem ecclesiasticae hierarchiea 
+                    et ad instructionem et praeparationem simplicium fidelium Christi in: Opera omnia quae reperiri poterunt,
+                    ed. Joannes Alitophilius (Constance [Paris]: Alithophilos, 1632, S. 111-487</title>
+                <author>Wilhelm of Saint-Amour</author>
+                <editor>Charlotte Feidicker</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.0.0-dev">
+                    <date when="2021-03-20">March 20, 2021</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>SCTA</authority>
+                <availability status="free">
+                    <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+                </availability>                    
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness><!--Text missing--></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng"/>
+            <editorialDecl>
+                <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2021-03-20" status="draft" n="0.0.0">
+                    <p>Created file for the first time.</p>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front></front>
+        <body>
+            <div> 
+                <head></head>
+                    <p><!--578.xml-->
+                        <pb ed="#P" n="578"/>
+                        <lb ed="#P" n="21"/>ONCIo, quae hic sequitur, AMICE 
+                        <lb ed="#P" n="22"/>LECTOR, serius nobis allata est; quam vt 
+                        <lb ed="#P" n="23"/>potuerit suo loco interseri. Sed quia nomen 
+                        <lb ed="#P" n="24"/>&amp; ingenium Magistri Guillielmi de Sancto 
+                        <lb ed="#P" n="25"/>Amore prae se ferebat, &amp; eius ipse saepe me¬ 
+                        <lb ed="#P" n="26"/>minit in suis ad Obiecta Responsionibus; nolui tantum in 
+                        <lb ed="#P" n="27"/>fidem publicam committere vt eam Typographus non excu¬ 
+                        <lb ed="#P" n="28"/>deret. Eam autem habitam esse Parisiis, cumiam Romae de¬ 
+                        <lb ed="#P" n="29"/>latus esset, ex eo collige, quod statim post eius initium dicat,  
+                        <lb ed="#P" n="30"/>quosdam sibi detrahere apud Magnates &amp; in Curia Domini 
+                        <lb ed="#P" n="31"/>Papae, quiad Periculis tantum praedicabat. Vale Mi LEc¬ 
+                        <lb ed="#P" n="32"/>ToR &amp; fruere.  
+                    </p>
+            </div>
+        </body>
+    </text>
+</TEI>
