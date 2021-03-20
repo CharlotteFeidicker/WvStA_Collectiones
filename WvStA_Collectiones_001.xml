@@ -3,31 +3,38 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
-                <author></author>
-                <editor></editor>
+                <title>Collectiones catholicae et canonicae scripturae ad defensionem ecclesiasticae hierarchiea et ad instructionem et praeparationem simplicium fidelium Christi</title>
+                <author>Wilhelm of Saint-Amour</author>
+                <editor>Charlotte Feidicker</editor>
             </titleStmt>
             <editionStmt>
-                <edition></edition>
+                <edition n="0.0.0-dev">
+                    <date when="2021-03-20">March 20, 2021</date>
+                </edition>
             </editionStmt>
             <publicationStmt>
-                <authority></authority>
+                <authority>SCTA</authority>
                 <availability status="free">
-                    <p></p>
+                    <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
                 </availability>                    
             </publicationStmt>
             <sourceDesc>
                 <listWit>
-                    <witness></witness>
+                    <witness><!--Text missing--></witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
             <schemaRef url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng"/>
+            <editorialDecl>
+                <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+            </editorialDecl>
         </encodingDesc>
-        <revisionDesc>
+        <revisionDesc status="draft">
             <listChange>
-                <change></change>
+                <change when="2021-03-20" status="draft" n="0.0.0">
+                    <p>Created file for the first time.</p>
+                </change>
             </listChange>
         </revisionDesc>
     </teiHeader>
