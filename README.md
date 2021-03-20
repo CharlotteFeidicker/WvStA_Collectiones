@@ -1,5 +1,5 @@
-# WvStA_Collectiones_001
-Transkription von: Wilhelm von Saint-Amour, Collectiones catholicae et canonicae ad defensionem ecclesiasticae hierarchieae et ad instructionem et praeparationem simplicium fidelium Christi in: Joannes Alitophilius, Opera omnia quae reperiri poterunt (Constance [Paris]: Alithophilos, 1632), S. 111-487;
+# WvStA_Collectiones
+Transkription von: Wilhelm von Saint-Amour, Collectiones catholicae et canonicae ad defensionem ecclesiasticae hierarchieae et ad instructionem et praeparationem simplicium fidelium Christi in: Joannes Alitophilius, Opera omnia quae reperiri poterunt (Constance [Paris]: Alithophilos, 1632), S. 111-487
 
 Die Transkription wurde mit Transkribus [https://readcoop.eu/transkribus/] per OCR unter der Anwendung von trainierten Modellen erstellt. 
 Die Genauigkeit der Endausgabe betrug: 
@@ -17,8 +17,12 @@ sowie der Prolog, die fünf Distinctiones, der Epilog sowie die Tabula de Signis
   WvSTA_Collectiones_Epilogus.xml       (Epilog)
   WvSTA_Collectiones_TabulaDeSignis.xml (Tabula de Signis)
 
-Eine händische Nachkorrektur wurde für folgende Dateien vorgenommen: 
+Alle Dateien werden nach dem TEI-LombardPress-Schema für diplomatische Editionen des Scholastic Commentaries and Texts Archive [https://lombardpress.org/schema/docs/diplomatic/] ausgezeichnet und wurden mit einem entsprechenden <teiHeader> beschrieben. Für weitere Informationen zum SCTA siehe: https://scta.info/ und https://github.com/scta/ . 
+
+Eine händische Nachkorrektur der Transkription sowie eine erweiterte Annotation und Einbindung in das SCTA wurde für folgende Dateien vorgenommen: 
   WvSTA_Collectiones_001_Dist5.xml
+  
+
   
 
 
