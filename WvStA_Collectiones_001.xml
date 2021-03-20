@@ -22,14 +22,20 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
-        <encodingDesc></encodingDesc>
-        <revisionDesc></revisionDesc>
+        <encodingDesc>
+            <schemaRef url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng"/>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change></change>
+            </listChange>
+        </revisionDesc>
     </teiHeader>
     <text>
         <front></front>
         <body>
         <div>
-            <div><head>Prologus</head>
+            <head>Collectiones catholicae full text</head>
                 <p><!--195.xml-->
                     <pb ed="#P" n="195"/>
                     <lb ed="#P" n="1"/>SAPIENTIAM antiquorum omnium ex¬ 
@@ -683,9 +689,8 @@
                     <lb ed="#P" n="18"/>gustin. dicit in lib. De Mendacio. Sane quisquis legis, nibilte 
                     <lb ed="#P" n="19"/>prehendas, nisi cum totum per legeris; &amp; ita forte reprelendes miniis;  
                     <lb ed="#P" n="20"/>Explicit Prologus.
-                     </p>
-                    </div>
-                      <div>
+                 </p>
+            <p>
                     <!--212.xml-->
                     <pb ed="#P" n="212"/>
                     <lb ed="#P" n="1"/>RIM A ergo distinctione huius Tra¬ 
@@ -4157,8 +4162,6 @@
                     <lb ed="#P" n="18"/>in nouissimo. De Pseudo igitur, &amp; Penetrantibus domos, haec 
                     <lb ed="#P" n="19"/>ad praesens sufficiant.  
                     <lb ed="#P" n="20"/>Explicit prima distinctia 
-                      </div>
-                 <div> 
                     <!--297.xml-->
                     <pb ed="#P" n="297"/>
                     <lb ed="#P" n="1"/>VONIAM autem contingere po¬ 
@@ -7963,8 +7966,6 @@
                     <lb ed="#P" n="23"/>De Otiosis igitur, &amp; Curiosis, &amp; Grrouagis, haec ad praesesis 
                     <lb ed="#P" n="24"/>sufficiant.  
                     <lb ed="#P" n="25"/>Explicit Secunda Distinctio.
-                 </div>
-                <div>
                     <!--390.xml-->
                     <pb ed="#P" n="390"/>
                     <lb ed="#P" n="1"/>OsT haec autem, quoniam Seductores 
@@ -9286,8 +9287,6 @@
                     <lb ed="#P" n="12"/>dicatorum, &amp; Penetrantium domos, &amp; aliorum Hypocritarum haec¬ 
                     <lb ed="#P" n="13"/>ad praesens sufficiant.  
                     <lb ed="#P" n="14"/>Explicit Tertia Distinctio.  
-                </div>
-                <div>
                     <!--423.xml-->
                     <pb ed="#P" n="423"/>
                     <lb ed="#P" n="1"/>VARPA DISTINGPIGNE. Ad qprub¬ 
@@ -15678,7 +15677,12 @@
                     <lb ed="#P" n="29"/>latus esset, ex eo collige, quod statim post eius initium dicat,  
                     <lb ed="#P" n="30"/>quosdam sibi detrahere apud Magnates &amp; in Curia Domini 
                     <lb ed="#P" n="31"/>Papae, quiad Periculis tantum praedicabat. Vale Mi LEc¬ 
-                    <lb ed="#P" n="32"/>ToR &amp; fruere.  
-        
+                    <lb ed="#P" n="32"/>ToR &amp; fruere.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+           
 
 
