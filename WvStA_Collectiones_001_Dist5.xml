@@ -51,53 +51,53 @@
                         <lb ed="#P" n="2"/>dicta pericula repellenda, &amp; quae sit poena ne¬ 
                         <lb ed="#P" n="3"/>gligentium in hac parte; sciendum est, quod 
                         <lb ed="#P" n="4"/>Praelati Ecclesiae, qui eius Speculatores sunt 
-                        <lb ed="#P" n="5"/>&amp; dicuntur, iuxta illud <ref>Ezechiel. 3.<quote>Fili homi¬ <!-- @Jeff: Is it a good idea to do quote within ref?-->
-                        <lb ed="#P" n="6"/>nis Speculatorem dedi te domui Israel</quote></ref>; &amp; ideo 
+                        <lb ed="#P" n="5"/>&amp; dicuntur, iuxta illud <ref>Ezechiel. 3.</ref><quote>Fili homi¬ <!-- @Jeff: Should the quote tag be in the ref-tag?-->
+                        <lb ed="#P" n="6"/>nis Speculatorem dedi te domui Israel</quote>; &amp; ideo 
                         <lb ed="#P" n="7"/>in extremo Iudicio, quando ab eis de gregibus sibi commissis 
-                        <lb ed="#P" n="8"/>ratio exigetur, Domino dicente <ref>Ierem. 13.<quote>Vbi est grex, qui 
-                        <lb ed="#P" n="9"/>datus est tibi, pecus incyltum tuum?</quote></ref> necesse habebunt reddere 
+                        <lb ed="#P" n="8"/>ratio exigetur, Domino dicente <ref>Ierem. 13.</ref><quote>Vbi est grex, qui 
+                        <lb ed="#P" n="9"/>datus est tibi, pecus incyltum tuum?</quote> necesse habebunt reddere 
                         <lb ed="#P" n="10"/>rationem de periculis &amp; damnis gregum suorum, ad instar 
-                        <lb ed="#P" n="11"/>Iacob dicentis ad Laban, cuius gregem pascebat <ref>Genes. 35.  
+                        <lb ed="#P" n="11"/>Iacob dicentis ad Laban, cuius gregem pascebat <ref>Genes. 35.</ref>  
                         <lb ed="#P" n="12"/><quote>Ego omne damnum reddebam tibi, quidquid furto perierat, a me 
-                        <lb ed="#P" n="13"/>exigebas;</quote></ref> quibus etiam praecipue dicitur <ref>Prouerb. 24.<quote>Erue eos,  
-                        <lb ed="#P" n="14"/>qui ducuntur id mortem</quote></ref>, &amp;c. propter quae fideliter ac diligen¬ 
+                        <lb ed="#P" n="13"/>exigebas;</quote> quibus etiam praecipue dicitur <ref>Prouerb. 24.</ref><quote>Erue eos,  
+                        <lb ed="#P" n="14"/>qui ducuntur id mortem</quote>, &amp;c. propter quae fideliter ac diligen¬ 
                         <lb ed="#P" n="15"/>ter implenda debent super gregibus suis assidue speculari;  
-                        <lb ed="#P" n="16"/>iuxta illud <ref>Isa. 21.<quote>Super speculam Domini ego sum stans iugiter 
-                        <lb ed="#P" n="17"/>per diem, &amp; super custodiam meam ego <unclear>samestans</unclear> totis noctibus,</quote></ref>  
+                        <lb ed="#P" n="16"/>iuxta illud <ref>Isa. 21.</ref><quote>Super speculam Domini ego sum stans iugiter 
+                        <lb ed="#P" n="17"/>per diem, &amp; super custodiam meam ego <unclear>samestans</unclear> totis noctibus,</quote> 
                         <lb ed="#P" n="18"/>Ipsi in quam, Praelati &amp; Speculatores Ecclesiae speculari de¬ 
                         <lb ed="#P" n="19"/>bent semper, vtrum talia pericula(qualia supra descripta sunt) 
                         <lb ed="#P" n="20"/>vel etiam alia immineant Ecclesiae Dei, prope vel longe fu¬ 
                         <lb ed="#P" n="21"/>tura, &amp; de illis subiectos suos sollicite praemonere; nam, sicut 
                         <!--565.xml-->
                         <pb ed="#P" n="565"/>
-                        <lb ed="#P" n="1"/>dicit Glossa. Interlinearis super illud Ezeshici. 3. Speculatorem 
+                        <lb ed="#P" n="1"/>dicit Glossa Interlinearis super illud <ref>Ezechiel. 3.</ref> <quote>Speculatorem 
                         <lb ed="#P" n="2"/>dedite, &amp;c. SPECVLATOR est, qui semper in <unclear>altostae</unclear>; vt quid¬
-                        <lb ed="#P" n="3"/>quid venturum est, longe ante prospiciat, &amp; subiectos praemoneat,  
-                        <lb ed="#P" n="4"/>vt dictum est supra in Prologo, §. Nec expectandum est. Nec 
+                        <lb ed="#P" n="3"/>quid venturum est, longe ante prospiciat, &amp; subiectos praemoneat,</quote>  
+                        <lb ed="#P" n="4"/>vt dictum est supra in <ref>Prologo, §.Nec expectandum est.</ref> Nec <!-- Here ref or quote?-->
                         <lb ed="#P" n="5"/>enim multum curandum est scire post quantum tempus, <unclear>siue</unclear> 
                         <lb ed="#P" n="6"/>longe, <unclear>siue</unclear> prope futura sint dicta pericula, ex quo certum est 
                         <lb ed="#P" n="7"/>procul dubio, quod sint futura; sed hoc solummodo, curan¬ 
                         <lb ed="#P" n="8"/>dum est scire, scilicet quomodo sint futura, vt vigilemus pa¬ 
-                        <lb ed="#P" n="9"/>rati, sicut ostensum est supra in Prologo, §. Nec opus est scire 
+                        <lb ed="#P" n="9"/>rati, sicut ostensum est supra in <ref>Prologo, §. Nec opus est scire</ref> 
                         <lb ed="#P" n="10"/>§. Debent autem Praelati, <unclear>siue</unclear> Speculatores iam dicti, prae¬ 
                         <lb ed="#P" n="11"/>monere Subditos suos de illis periculis antequam veniant, ne 
-                        <lb ed="#P" n="12"/>ipsos inueniant imparatos, vt ostensum est supra in Prolo¬ 
-                        <lb ed="#P" n="13"/>go, §. Nec expectandum est; sicut Dominus quaedam perioula Ec¬ 
-                        <lb ed="#P" n="14"/>clesiae suae in nouissimis diebus futura praedixit, Matth. 24. 
+                        <lb ed="#P" n="12"/>ipsos inueniant imparatos, vt ostensum est supra in <ref>Prolo¬ 
+                        <lb ed="#P" n="13"/>go, §. Nec expectandum est</ref>; sicut Dominus quaedam perioula Ec¬ 
+                        <lb ed="#P" n="14"/>clesiae suae in nouissimis diebus futura praedixit, <ref>Matth. 24.</ref> 
                         <lb ed="#P" n="15"/>vt Fideles Christi praemoniti vigilarent. Vnde ibidem super 
-                        <lb ed="#P" n="16"/>illud, Ecce praedixi vobis, dicit Glossa. Vt <unclear>praeseii</unclear> vigiletis, <unclear>praeme¬</unclear> 
-                        <lb ed="#P" n="17"/>niti estis, Sic etiam fecit Apostolus I. Thimoth. 4. <unclear>qum</unclear> dixit <unclear>in</unclear> 
-                        <lb ed="#P" n="18"/><unclear>touissimis</unclear> temporibus discedent quidam a <unclear>Fideci.</unclear> &amp; cum dixit 4. 
-                        <lb ed="#P" n="19"/>Timoth. 3. Hoch autem <unclear>scito</unclear>, quod in nouissimis diebus instabunt 
-                        <lb ed="#P" n="20"/>tempora periculosa, vt ostensum est supra in Prologo §. Ideoque 
+                        <lb ed="#P" n="16"/>illud, <quote>Ecce praedixi vobis</quote>, <ref>dicit Glossa.</ref> <quote>Vt <unclear>praeseii</unclear> vigiletis, <unclear>praeme¬</unclear> 
+                        <lb ed="#P" n="17"/>niti estis,</quote> Sic etiam fecit <ref>Apostolus I. Thimoth. 4.</ref> <unclear>qum</unclear> dixit <quote><unclear>in</unclear> 
+                        <lb ed="#P" n="18"/><unclear>touissimis</unclear> temporibus discedent quidam a <unclear>Fideci.</unclear></quote> &amp; cum dixit <ref><unclear>4.</unclear> 
+                        <lb ed="#P" n="19"/>Timoth. 3.</ref> <quote>Hoc autem <unclear>scito</unclear>, quod in nouissimis diebus instabunt 
+                        <lb ed="#P" n="20"/>tempora periculosa</quote>, vt ostensum est supra in <ref>Prologo §. Ideoque</ref> 
                         <lb ed="#P" n="21"/>§. Maxime autem speculari debent Speculatores praedicti,  
                         <lb ed="#P" n="22"/>vtrum tales periculosi homines (quales supra descripti sunt) 
                         <lb ed="#P" n="23"/>iam multiplicentur, &amp; plures appareant, quam; apparere so¬ 
                         <lb ed="#P" n="24"/>leant in Ecclesia De, vt ex hoc <unclear>coniiciant</unclear> <unclear>appropinqnare</unclear> tem¬ 
-                        <lb ed="#P" n="25"/>pora periculosa; nam, sicut dicit Glossa super illud 2. Timoth 
-                        <lb ed="#P" n="26"/>3. Ex hic sunt, qui penetrant domos. IAM horum <unclear>praenqutii</unclear> quidam 
-                        <lb ed="#P" n="27"/>sunt, sed plures in sine futuri sunt vt dictum est supra dist. I §.  
-                        <lb ed="#P" n="28"/>Apostolus autem. Quos si multiplicari perspexerint, debent 
+                        <lb ed="#P" n="25"/>pora periculosa; nam, sicut dicit Glossa super illud <ref>2. Timoth 
+                        <lb ed="#P" n="26"/>3.</ref> <quote>Ex hic sunt, qui penetrant domos. IAM horum <unclear>praenqutii</unclear> quidam 
+                        <lb ed="#P" n="27"/>sunt, sed plures in sine futuri sunt</quote> vt dictum est supra <ref>dist. I §.  
+                        <lb ed="#P" n="28"/>Apostolus autem.</ref> Quos si multiplicari perspexerint, debent 
                         <lb ed="#P" n="29"/>eos arcere &amp; repellere hoc modo. Si enim aliqui Praedicato¬ 
                         <lb ed="#P" n="30"/>res appareant in Ecclesia Dei, de quorum canonica missione, 
                         <lb ed="#P" n="31"/>seu recta vocatione non constet; praecipue, qui mores ha¬ 
@@ -108,11 +108,11 @@
                         <lb ed="#P" n="36"/>proprietates cuiusque rimari) vtpote actum audiendi confes¬ 
                         <lb ed="#P" n="37"/>siones Fidelium, &amp; poenitentias iniungendi; item actum prae¬ 
                         <lb ed="#P" n="38"/>dicandi, docendi, &amp; generaliter umnia colloquia; quibus Fi¬ 
-                        <lb ed="#P" n="39"/>deles Christi seducere possunt, de quibus dictum est supra dist.  
+                        <lb ed="#P" n="39"/>deles Christi seducere possunt, de quibus dictum est supra <ref>dist.  
                         <!--566.xml-->
                         <pb ed="#P" n="566"/>
-                        <lb ed="#P" n="1"/>I. Vnde super illud i. Corinth. 15. Nolite seduci; dicit Glossa. Per 
-                        <lb ed="#P" n="2"/>Pseudo. Et subiungit Apostolus. Corrumpunt enim bonos inores 
+                        <lb ed="#P" n="1"/>I.</ref> Vnde super illud i. <ref>Corinth. 15.</ref> <quote>Nolite seduci;</quote> dicit <ref>Glossa.</ref> <quote>Per 
+                        <lb ed="#P" n="2"/>Pseudo.</quote> Et subiungit Apostolus. Corrumpunt enim bonos inores 
                         <lb ed="#P" n="3"/>colloquia mala. Glossa. Assiduitas praui colloquii vitiat mentem;  
                         <lb ed="#P" n="4"/>&amp; ideo ab illis cauendum est, id est a Pseudo; Ipsi enim ha¬ 
                         <lb ed="#P" n="5"/>bent colloquia mala, videlicet adulationis &amp; ostentationis 
