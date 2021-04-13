@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div><head>Vers 5</head><!--2 Tim 3, 5-->
-    <!-- Wilhelm zitiert Interlinearis oder marginalis?-->
-    <p xml:id="bcg6es-d1e110-Rd1e475">Text Glosse scan mit line-breaks</p> 
-    <!-- Link zu Text -->
-    <!-- Link zu Scan mit Verweis auf Ort -->
+    
+    <p xml:id="bcg6es-d1e110-Rd1e512"><quote>Et hos devita</quote> <quote>Tales</quote></p> <!-- Wilhelm fügt hinzu: "dum fuerint tales", steht aber nicht in Glosse -->
+    <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber70.xml&chapitre=70_3 -->
+    <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000066/Mon-typ-2-00011_422.tif?logicalDiv=log_717e91-b49b-d4d8-b4cd8b397 -->
+    <!-- Interlinearis linke Spalte oben -->
+    <!-- Wilhelm zitiert interlinearis und noch etwas dazu-->
 </div>
 
 

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div><head>Vers 17</head><!--Ezechiel 3, 17-->
+    <!-- Eintrag Text Glosse für Target Id-->
     <p xml:id="bcg6es-d1e110-Rd1e197"><!-- this is the id of the reference to the gloss in the file of the fifth distinctio (d1e110)--><lb/><quote>fili hominis</quote> <ref>hieronimus</ref>. <quote>Speculator est qui semper in alto stat ut 
      quid<lb break="no"/>quid venturum est longe prospiciat cuius vita alta debet esse et circunspecta.</quote> 
-    <!-- Eintrag Text Glosse für Target Id-->
     <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000063/Inc_83_3_00378.tif?logicalDiv=log_7c3c51-33d8-7fc1-f71b1ac48 --> <!--linke Spalte unten-->
     <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber37.xml&chapitre=37_3#37_bible59235 -->
+        <!-- Wilhelm sais that he would quote the glossa interlinaris but he quotes the glossa marginalis -->
     </p>
 </div>
 

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div><head>Vers 25</head><!--Math 24, 25-->
-    <p xml:id="bcg6es-d1e110-Rd1e291"><!-- quote aus glossa--><quote>Ecce praedixi vobis</quote> <quote>ut prescii vigiletis <unclear>et</unclear> premoniti estis</quote>
+    <!-- p-id = ref-entry in textfile --><p xml:id="bcg6es-d1e110-Rd1e291"><!-- quote aus glossa--><quote>Ecce praedixi vobis</quote> <quote>ut prescii vigiletis <unclear>et</unclear> premo
+        <lb break="no"/>niti estis</quote>
         <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber55.xml&chapitre=55_24-->
         <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000066/Mon-typ-2-00011_080.tif?logicalDiv=log_2fff3d-47c7-3424-9e7c52733 --> 
-        <!-- "Ecce in praedixi vobis" ist in der Mitte, rechte Spalte oben (interlinearis), Wilhelm zitiert interlinearis, kein Eintrag in marginalis-->
+        <!-- "Ecce in praedixi vobis" ist in der interlinearis, rechte Spalte oben, Wilhelm zitiert interlinearis, kein Eintrag in marginalis-->
     </p>
     
 </div>
