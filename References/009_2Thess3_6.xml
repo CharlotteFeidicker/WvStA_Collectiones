@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div><head>Vers 6</head><!--2 Thess 3, 6-->
     
-    <p <!-- ref id -->><quote></quote> <quote></quote></p> 
-    <!-- Link Text -->
+    <p  xml:id="bcg6es-d1e110-Rd1e757"><quote>Denunciamus autem <cb/><lb break="no"/>vobis fratres in nomine domini
+        <lb break="no"/>nostri ihesu christi ut substrahatis
+        <lb break="no"/> vos ab omni fratre ambulante in¬
+        <lb break="no"/>ordinate.</quote> <quote>per ihesum precipimus vel honor dei
+            <lb break="no"/> est si morbida ovis excluditur. In honore Christi. Non communicetis eis. aliter quam ordo nature exigit</quote></p> 
+    <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber68.xml&chapitre=68_3 -->
     <!-- Link Scan -->
     <!-- Ort Zitat auf Scan -->
     <!-- Wilhelm zitiert interlinearis und noch etwas dazu-->
