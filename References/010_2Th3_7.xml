@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div><head>Vers 7</head><!--IITh 3, 7-->
-    
-    <p xml:id="bcg6es-d1e110-Rd1e858"><quote>Ipsi enim scitis quemadmodum
-        <lb break="no"/>opteat nos imitari Quoniam non 
-        <lb break="no"/>inquieti fuimus inter vos neque gra
-    <lb break="no"/>tis</quote> 
-        <!-- hier zitiert Wilhelm Teile aus der marginalis --> <quote>Ipsi enim et cum
-        <lb break="no"/>hac non faciat debe
-        <lb break="no"/>tis vitare. Vel non am
-        <lb break="no"/>bulant secundum traditionem
-            <lb break="no"/>scitis enim quomodo me habui
-            <lb break="no"/>quod in illis non videtis
-            <lb break="no"/>quasi non est opus ut exponam
-            <lb break="no"/>vobis eam traditionem quia 
-            <lb break="no"/>eam scitis quod non inquieti
-            <lb break="no"/>ut qui aliena negotia cu
-            <lb break="no"/>rant vagantes hac illac.</quote></p> 
+<div>
+    <head>Vers 7</head><!--IITh 3, 7-->
+    <p>
+        <lb ed="#S"/><quote source="http://scta.info/resource/IIth3_7" synch="1-2">Ipsi enim</quote> et cum
+        <lb ed="#S"/>illi hac non faciat debe
+        <lb ed="#S" break="no"/>tis vitare. Vel non am
+        <lb ed="#S" break="no"/>bulant secundum traditionem
+        <lb ed="#S"/>scitis enim quomodo me habui
+        <lb ed="#S"/>quod in illis non videtis
+        <lb ed="#S"/>quasi non est opus ut exponam
+        <lb ed="#S"/>vobis eam traditionem quia
+        <lb ed="#S"/>eam scitis quod non inquieti
+        <lb ed="#S"/>ut qui aliena negotia cu
+        <lb ed="#S"  break="no"/>rant vagantes hac illac.
+      </p>
+    </div>
     <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber68.xml&chapitre=68_3 -->
     <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000066/Mon-typ-2-00011_409.tif?logicalDiv=log_51e12e-45ea-be6f-fac4d4e48 -->
     <!-- rechts oben -->
-    <!-- Wilhelm zitiert marginalis-->
+    <!-- Wilhelm zitiert marginalis at bcg6es-d1e110-Rd1e858-->
   
 
