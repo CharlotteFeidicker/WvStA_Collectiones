@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?> <!-- Achtung, Wilhelm zitiert seltsam, teils nicht glosse?-->
 <div><head>Vers 12</head><!--2Cor. 11, 12-->
     
-    <p xml:id="bcg6es-d1e110-Rd1e475"><quote>ut amputem occasionem</quote> <quote>Scie
-    <lb break="no"/>bat quod si non acciperent, non diu predicarent</quote></p> 
+    <p xml:id=""><!-- interlinearis-->
+        <p><quote source="http://scta.info/resource/IIcor11_12" synch="1-3">Quod 
+            <lb ed="#S"/>autem facio</quote>
+            <p>nunc</p>
+        </p>
+        <p><quote source="http://scta.info/resource/IIcor11_12" synch="4-5">et faciam,</quote>
+            <p>semper</p>
+        </p>
+        <p><quote source="http://scta.info/resource/IIcor11_12" synch="6-9">ut amputem 
+            <lb ed="#S"/>occasionem eorum</quote>
+            <p><lb ed="#S"/>sumendi vestra</p>
+            <p><!--marginalis--><quote source="http://scta.info/resource/IIcor11_12" synch="6-8">UT  AMPUTEM  
+                <lb ed="#S"/>OCCASIONEM.</quote> Scie
+                <lb ed="#S" break="no"/>bat quod si non acciperent 
+                <lb ed="#S"/>non diu predicarent.</p>
+        </p>
+        <p><!-- interlinearis--><quote source="http://scta.info/resource/IIcor11_12" synch="10-11">qui volunt</quote>
+            <p>habere</p>
+        </p>
+        <p><quote source="http://scta.info/resource/IIcor11_12" synch="12-12">occasionem</quote>
+            <p><!-- interlinearis--><lb ed="#S"/>per me</p>
+            <p><!-- interlinearis-->sumendi vestra</p>
+        </p>
+        <p><quote source="http://scta.info/resource/IIcor11_12" synch="13-16">ut in quo gloriantur</quote>
+            <p><!-- interlinearis-->vel <quote source="http://scta.info/resource/IIcor11_12" synch="14-16">in quo glorian
+                <lb ed="#S" break="no"/>tur</quote> id est in non accipiendo sint sicut et nos, id est non me
+                <lb ed="#S" break="no"/>liores nobis cum vero non accipiunt nam eiusmodi</p>
+            <p><!-- marginalis --><quote source="http://scta.info/resource/IIcor11_12" synch="13-16">UT  IN  QUO  GLO
+                <lb ed="#S" break="no"/>RIANTUR.</quote> Gloriantur 
+                <lb ed="#S"/>in accipiendo sed me 
+                <lb ed="#S"/>non accipiente non acci
+                <lb ed="#S" break="no"/>pient. Nam eiusmodi.</p>
+        </p>
+        <p><!-- interlinearis--><quote source="http://scta.info/resource/IIcor11_12" synch="17-20">i
+            <lb ed="#S" break="no"/>nveniantur sicut et nos.</quote>
+            <p><!-- laut cnrs interlinearis, in 1481 jedoch marginalis-->Ut inveniantur 
+                <lb ed="#S"/>sicut nos, id est similes 
+                <lb ed="#S"/>nobis in quo, id est in esse, similes 
+                <lb ed="#S"/>nobis gloriantur.</p>
+        </p>
+    </p>
+</div>
+            
+            
+            
+         
     <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber62.xml&chapitre=62_11 -->
     <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000066/Mon-typ-2-00011_357.tif?logicalDiv=log_4b98bb-c2c5-5f93-9a7ea3542 -->
     <!-- marginalis und interlinearis rechts oben -->
     <!-- Wilhelm zitiert zunächst möglicherweise ein Stück aus der interlinearis, aber eigentlich passt es nicht, dann zitiert er marginalis-->
-</div>
+    <!-- d1e110 "bcg6es-d1e110-Rd1e475"-->
