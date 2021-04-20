@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div><head>Vers 33</head><!--1Cor. 15, 33-->
     
-    <p xml:id="bcg6es-d1e110-Rd1e412"><quote>Nolite seduci corrumpunt mores bonos colloquia prava</quote> <quote>propter hec omnia: nolite seduci per pseudo .
-    <lb break="no"/>nec colloqui illis, quia colloquia illorum virtutes
-    <lb break="no"/>necant dum faciunt non sperare resurrectionem.</quote></p> 
+    <p xml:id=""><!-- interlinearis-->
+        <p><quote source="http://scta.info/resource/Icor15_33" synch="1-7">No
+            <lb ed="#S" break="no"/>lite seduci corrumpunt mores bonos<!-- in 1481 bonos mores--> 
+            <lb ed="#S"/>colloquia prava</quote>
+            <p><!-- laut cnrs marginalis in 1481 jedoch interlinearis, also als interlinearis anlegen!-->propter hec omnia: nolite seduci per pseudo.
+                <lb ed="#S"/>nec colloqui illis, quia colloquia illorum virtutes
+                <lb ed="#S"/>necant dum faciunt non sperare resurrectionem.</p>
+            <p><!-- jetzt wirklich marginalis--><quote source="http://scta.info/resource/Icor15_33" synch="1-2">NOLITE  SEDUCI.</quote> A pseudo qui de medicina querunt vulnus et de Scri
+                <lb ed="#S" break="no"/>pturis conantur torquere vinculum, unde laqueum mortis iniiciant.</p>
+        </p>
+    </p>
+</div>
     <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber61.xml&chapitre=61_15#61_bible84673 -->
     <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000066/Mon-typ-2-00011_340.tif?logicalDiv=log_a88512-e96e-982c-51dfdba12 -->
-    <!-- Scan: Interlinearis linke Spalte mitte-->
+    <!-- Scan: Interlinearis linke Spalte mitte, marginalis links unten-->
     <!-- Wilhelm zitiert Interlinearis -->
-</div>
+    <!-- in d1e110: ref xml:id="bcg6es-d1e110-Rd1e406" -->
 
