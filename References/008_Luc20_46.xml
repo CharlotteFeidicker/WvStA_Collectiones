@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div><head>Vers 46</head><!--Luc 20, 46-->
     
-    <p xml:id="bcg6es-d1e110-Rd1e664"><quote>Attendite a scribis</quote> <quote>Duplici ratione iubemur attendere a vane
-        <lb break="no"/>glorie cupidis, ne vel eorum simulatione decipiamur, vel eorum exemplo ad a
-        <lb break="no"/>morem temporalium inflamemur.</quote></p> 
+    <p xml:id=""><!-- interlinearis-->
+        <p><quote source="http://scta.info/resource/lc20_46" synch="1-3"><lb ed="#S"/>Attendite a scribis</quote>
+            <p><!-- marginalis--><quote source="http://scta.info/resource/lc20_46" synch="1-3"><lb ed="#S"/>ATTENDITE A  SCRIBIS.</quote> Duplici ratione iubemur attendere a vane 
+                <lb ed="#S"/>glorie cupidis, ne vel eorum simulatione decipiamur, vel eorum exemplo ad 
+                <lb ed="#S"/>amorem temporalium inflamemur.</p>
+        </p>
+        <p><!-- interlinearis--><quote source="http://scta.info/resource/lc20_46" synch="4-8">qui 
+            <lb ed="#S"/>volunt ambulare in stolis</quote>
+            <p><!-- interlinearis--><lb ed="#S"/>culcioribus vestimen
+                <lb ed="#S" break="no"/>tis induti in publicum procedere quod reprehendi
+                <lb ed="#S" break="no"/>tur in divite qui induebatur purpura et bisso</p>
+        </p>
+        <p><quote source="http://scta.info/resource/lc20_46" synch="9-23">et amant 
+            <lb ed="#S"/>salutationes in foro et primas ca¬
+            <lb ed="#S" break="no"/>thedras in synagogis et primos 
+            <lb ed="#S"/>discubitus in conviviis.</quote>
+            <p><!-- marginalis--><quote source="http://scta.info/resource/lc20_46" synch="9-13"><lb ed="#S"/>ET AMANT  SALUTA
+                <lb ed="#S" break="no"/>TIONES  IN  FORO.</quote> Non 
+                <lb ed="#S"/>salutari in foro, nec pri
+                <lb ed="#S" break="no"/>mas sedes vetat eis qui¬
+                <lb ed="#S" break="no"/>bus debetur ex ordine of
+                <lb ed="#S" break="no"/>ficii, sed eis qui inde¬
+                <lb ed="#S" break="no"/>bite amant. Animum 
+                <lb ed="#S"/>enim non gradum redar
+                <lb ed="#S" break="no"/>guit. Nec vero caret 
+                <lb ed="#S"/>culpa, si is fori litibus in
+                <lb ed="#S" break="no"/>teresse velit qui deside
+                <lb ed="#S"/>rat sedere in cathedra 
+                <lb ed="#S"/>moysi.</p>
+        </p>
+    </p>
+</div>
     <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber57.xml&chapitre=57_20 -->
     <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000066/Mon-typ-2-00011_216.tif?logicalDiv=log_5c3e84-ec12-636a-a27df2249 -->
     <!-- marginalis links oben  -->
     <!-- Wilhelm zitiert interlinearis und noch etwas dazu-->
-</div>
+    <!-- siehe in d1e110  xml:id="bcg6es-d1e110-Rd1e664"-->
+<!-- CF fertig-->
+
     
