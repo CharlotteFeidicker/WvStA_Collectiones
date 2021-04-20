@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div><head>Vers 17</head><!--Ezechiel 3, 17-->
     <p xml:id="">
-        <p><!-- marginalis -->
-            <lb/><quote xml:id="" source="http://scta.info/resource/ez3_17" synch="1-2">fili hominis</quote> <ref>hieronimus</ref>. <quote>Speculator est qui semper in alto stat ut 
-                quid<lb ed="#S" break="no"/>quid venturum est longe prospiciat cuius vita alta debet esse et circunspecta.</quote></p> 
+            <p><quote source="http://scta.info/resource/ez3_17" synch="1-8">fili
+                <cb ed="#S"/><lb ed="#S"/>hominis speculatorem dedi te do¬
+                <lb ed="#S" break="no"/>mui Israel et</quote> 
+                <p>prius</p>
+            </p>
+            <p><quote source="http://scta.info/resource/ez3_17" synch="9-9">audies</quote>
+                <p>quasi ne presumas loqui quod non audi 
+                    <lb ed="#S" break="no"/>eris. Unde. inclinabo in parabolam aurem meam aperiam 
+                    <lb ed="#S"/>in psalterio propositionem meam</p>
+            </p>
+            <p><quote source="http://scta.info/resource/ez3_17" synch="10-12">de ore meo</quote>
+                <p>filio</p>
+            </p>
+            <p><quote source="http://scta.info/resource/ez3_17" synch="13-13"><lb ed="#S"/>verbum</quote>
+                <p>doctrine</p>
+            </p>
+            <p><quote source="http://scta.info/resource/ez3_17" synch="14-18">et annuntiabis eis ex me</quote>
+                <p><!-- marginalis--><quote source="http://scta.info/resource/ez3_17" synch="1-2"> FILI  HOMINIS.</quote> <ref xml:id="aqup106-random">HIERONIMUS.</ref> <quote xml:id="" target="aqup106-random">Speculator est qui semper in alto stat ut quid
+                    <lb ed="#S" break="no"/>quid venturum est longe prospiciat cuius vita alta debet esse et circunspecta.</quote></p>
+            </p>       
     </p>
 </div>
 <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000063/Inc_83_3_00378.tif?logicalDiv=log_7c3c51-33d8-7fc1-f71b1ac48 --> 
@@ -13,4 +30,4 @@
 <!-- siehe ref in d1e110 ref xml:id="bcg6es-d1e110-Rd1e197" -->
 
 
-<!-- CF auf Vollständigkeit prüfen  -->
+<!-- CF fertig  -->
