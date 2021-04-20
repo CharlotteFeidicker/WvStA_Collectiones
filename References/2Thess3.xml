@@ -40,40 +40,68 @@
         
         
 <head>Vers 7</head><!--2Th 3, 7-->
-<p> <!-- CF: Keine Id aus dem Wilhelm-Text, denn der Eintrag bekommt eine eigene Id.-->
-    <!-- CF: Der Bibelvers aus der Glosse wird in diesem Eintrag nicht erneut wiedergegeben. -->
-    <!-- CF: Glossa Kommentar so wiedergeben, wie er im Scan steht, nicht wie bei Wilhelm -->
-    <!-- CF: Frage: Was tue ich, wenn Wilhelm interlinearis zitiert (meistens) -->
-    <lb ed="#S"/><quote source="http://scta.info/resource/IIth3_7" synch="1-2">Ipsi enim</quote> et cum <!-- CF: Bibelvers-Teil, der im Kommentar angegeben wird mit SCTA-Link ausweisen-->
-    <lb ed="#S"/>illi hac non faciat debe <!-- CF: lb mit ed="#S" -->
-    <lb ed="#S" break="no"/>tis vitare. Vel non am <!-- CF: break-no nur dann, wenn in der Wortmitte getrennt wird.-->
-    <lb ed="#S" break="no"/>bulant secundum traditionem
-    <lb ed="#S"/>scitis enim quomodo me habui
-    <lb ed="#S"/>quod in illis non videtis
-    <lb ed="#S"/>quasi non est opus ut exponam
-    <lb ed="#S"/>vobis eam traditionem quia
-    <lb ed="#S"/>eam scitis quod non inquieti
-    <lb ed="#S"/>ut qui aliena negotia cu
-    <lb ed="#S"  break="no"/>rant vagantes hac illac.
+<p xml:id=""><!-- interlinearis-->
+    <p><quote source="http://scta.info/resource/IIth3_7" synch="1-3"><lb ed="#S"/>Ipsi enim scitis</quote>
+        <p><lb ed="#S"/>ideo debetis vos subtrahere</p>
+        <p><!-- marginalis--><lb ed="#S"/><quote source="http://scta.info/resource/IIth3_7" synch="1-2">Ipsi enim</quote> et cum 
+        <lb ed="#S"/>illi hac non faciat debe
+        <lb ed="#S" break="no"/>tis vitare. Vel non am
+        <lb ed="#S" break="no"/>bulant secundum traditionem
+        <lb ed="#S"/>scitis enim quomodo me habui
+        <lb ed="#S"/>quod in illis non videtis
+        <lb ed="#S"/>quasi non est opus ut exponam
+        <lb ed="#S"/>vobis eam traditionem quia
+        <lb ed="#S"/>eam scitis quod non inquieti
+        <lb ed="#S"/>ut qui aliena negotia cu
+        <lb ed="#S"  break="no"/>rant vagantes hac illac.</p>
+    </p>
+    <p><quote source="http://scta.info/resource/IIth3_7" synch="4-4">quemadmodum</quote>
+        <p><!-- interlinearis-->in quibus</p>
+    </p>
+    <p><quote source="http://scta.info/resource/IIth3_7" synch="5-7"><lb ed="#S"/>oporteat nos imitari</quote>
+        <p><lb ed="#S"/>vere oportet imitari nos quia boni</p>
+    </p>
+    <p><quote source="http://scta.info/resource/IIth3_7" synch="8-13">Quoniam non 
+        <lb ed="#S"/>inquieti fuimus inter vos</quote></p>
 </p>
 
 <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber68.xml&chapitre=68_3 -->
 <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000066/Mon-typ-2-00011_409.tif?logicalDiv=log_51e12e-45ea-be6f-fac4d4e48 -->
 <!-- rechts oben -->
-<!-- Wilhelm zitiert marginalis at bcg6es-d1e110-Rd1e858--> <!-- CF: ref aus Wilhelm angeben. Frage: Sollte ich alle refs angeben? -->
+<!-- Wilhelm zitiert marginalis at bcg6es-d1e110-Rd1e858-->
 
-<!-- JCW überarbeitet -->
+<!-- JCW überarbeitet, CF fertig -->
 
 <head>Vers 8</head><!--2 Th 3, 8-->
 
-<p xml:id="bcg6es-d1e110-Rd1e859"><quote>neque gra<lb break="no"/>tis panem manducauimus ab ali<lb break="no"/>quo: sed in labore et fatigatione
-    <lb break="no"/>nocte et die operantes, ne quem ve
-    <lb break="no"/>vestrum grauaremus</quote> 
-    <quote></quote></p> 
+<p xml:id=""><!-- interlinearis-->
+    <p><quote source="http://scta.info/resource/IIth3_8" synch="1-2">neque gra
+        <lb ed="#S" break="no"/>tis</quote>
+        <p><lb ed="#S"/>sine la
+            <lb ed="#S" break="no"/>bore</p>
+    </p>
+    <p><quote source="http://scta.info/resource/IIth3_8" synch="3-6">panem manducavimus ab ali
+        <lb ed="#S" break="no"/>quo:</quote>
+        <p>quasi sum
+            <lb ed="#S" break="no"/>ptum ab aliis</p>
+    </p>
+    <p><quote source="http://scta.info/resource/IIth3_8" synch="7-9">sed in labore</quote>
+        <p>contra gratis</p>
+    </p>
+    <p><quote source="http://scta.info/resource/IIth3_8" synch="10-11">et fatigatione</quote>
+        <p>usque ad fa
+            <lb ed="#S" break="no"/>tigationem</p>
+    </p>
+    <p><quote source="http://scta.info/resource/IIth3_8" synch="12-19">nocte et die operantes, ne quem ve
+        <lb ed="#S" break="no"/>strum gravaremus</quote>
+        <p><lb ed="#S"/>contra ab aliquo</p>
+    </p>
+</p>
 </div>
 <!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber68.xml&chapitre=68_3-->
 <!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000066/Mon-typ-2-00011_409.tif?logicalDiv=log_51e12e-45ea-be6f-fac4d4e48 -->
 <!-- rechts oben/mitte -->
 <!-- Wilhelm zitiert interlinearis und noch etwas dazu-->
+<!-- siehe in d1e110: xml:id="bcg6es-d1e110-Rd1e859"-->
 
 <!-- CF fertig -->
