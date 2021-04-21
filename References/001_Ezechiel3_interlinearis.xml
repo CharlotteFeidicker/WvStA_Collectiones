@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ezechiel 3 [Strasbourg 1481 Transcription]</title>
+                <author/>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.0.0-dev">
+                    <title>Ezechiel 3 [Strasbourg 1481 Transcription]</title>
+                    <date when="2018-04-21">April 21, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>SCTA</authority>
+                <availability status="free">
+                    <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness xml:id="S" n="Strasbourg1481">Strasbourg 1481</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng"/>
+            <editorialDecl>
+                <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+                    guidelines for a diplomatic edition.
+                </p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc status="draft">
+            <listChange>
+                <change when="2018-04-21" status="draft" n="0.0.0">
+                    <p>Created file for the first time.</p>  
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div xml:id="starts-on">
+                
+            </div>
+        </front>
+        <body>
+            <div xml:id="go-ez3">
+                <div xml:id="go-ez3-Dd1e93">
+                    <head xml:id="go-ez3-Hd1e95">Vers 17</head><!--Ez 3, 17-->
+                    <p xml:id="go-ez3-d1e96">
+                        <lb ed="#S"/><quote xml:id="go-ez3-Qd1e97"  source="http://scta.info/resource/ez3_17" synch="1-8">fili
+                            <cb ed="#S" n="2"/><lb ed="#S"/>hominis speculatorem dedi te do¬
+                            <lb ed="#S" break="no"/>mui Israel et</quote>
+                        <pc type="pilcrow">¶</pc> prius
+                    </p>
+                    <p xml:id="go-ez3-d1e99">
+                        <quote source="http://scta.info/resource/ez3_17" synch="9-9">audies</quote>
+                        <pc type="pilcrow">¶</pc>quasi ne presumas loqui quod non audi<lb ed="#S" break="no"/>eris. 
+                        Unde. inclinabo in parabolam aurem meam aperiam 
+                        <lb ed="#S"/>in psalterio propositionem meam
+                    </p>
+                    <p xml:id="go-ez3-d1e102">
+                        <quote source="http://scta.info/resource/ez3_17" synch="10-12">de ore meo</quote>
+                        <pc type="pilcrow">¶</pc>filio
+                    </p>
+                    <p xml:id="go-ez3-d1e105">
+                        <quote source="http://scta.info/resource/ez3_17" synch="13-13">verbum</quote>
+                        <lb ed="#S"/><pc type="pilcrow">¶</pc>doctrine
+                    </p>
+                    <p xml:id="go-ez3-d1e108">
+                        <quote  source="http://scta.info/resource/ez3_17" synch="14-18">et annuntiabis eis ex me</quote>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
+<!-- https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00000063/Inc_83_3_00378.tif?logicalDiv=log_7c3c51-33d8-7fc1-f71b1ac48 --> 
+<!--linke Spalte unten-->
+<!-- https://gloss-e.irht.cnrs.fr/php/editions_chapitre.php?livre=../sources/editions/GLOSS-liber37.xml&chapitre=37_3#37_bible59235 -->
+<!-- Wilhelm sais that he would quote the glossa interlinaris but he quotes the glossa marginalis -->
+<!-- siehe ref in d1e110 ref xml:id="bcg6es-d1e110-Rd1e197" -->
+
