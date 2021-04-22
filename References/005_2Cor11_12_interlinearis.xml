@@ -68,7 +68,8 @@
                         <pc type="pilcrow">¶</pc> habere
                     </p>
                     <p xml:id="go-IIcor11-d1e107"> 
-                        <quote xml:id="go-IIcor11-Qd1e109"  source="http://scta.info/resource/IIcor11_12" synch="12-12">occasionem</quote>
+                        <quote xml:id="go-IIcor11-Qd1e109"  source="http://scta.info/resource/IIcor11_12" synch="12-12">oc
+                            <lb ed="#S" break="no"/>casionem</quote>
                         <pc type="pilcrow">¶</pc><lb ed="#S"/>per me <pc type="pilcrow">¶</pc>sumendi vestra
                     </p>
                     <p xml:id="go-IIcor11-d1e111"> 
