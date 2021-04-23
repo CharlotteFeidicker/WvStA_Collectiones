@@ -60,6 +60,19 @@
                             <lb ed="#S"/>nibus exquirentibus disciplinam</quote>
                     </p>
                 </div>
+                <div xml:id="go-sir33-Dd1e105">
+                    <head xml:id="go-sir33-Hd1e108">Vers 19</head><!-- Sir 33, 19-->
+                    <p xml:id="go-sir33-d1e110">
+                        <quote xml:id="go-sir33-Qd1e111" source="http://scta.info/resource/sir33_19" synch="1-6">Audi
+                            <lb ed="#S" break="no"/>te me magnati et omnes populi </quote> 
+                        <pc type="pilcrow">¶</pc>quibus correptionem 
+                        <lb ed="#S"/>vite et modestiam dicipline exhibui 
+                    </p>
+                    <p xml:id="go-sir33-d1e115">
+                        <quote xml:id="go-sir33-Qd1e115" source="http://scta.info/resource/sir33_19" synch="7-11">et re¬
+                            <lb ed="#S" break="no"/>ctores Ecclesie auribus percipite</quote>
+                    </p>
+                </div>
             </div>
         </body>
     </text>
